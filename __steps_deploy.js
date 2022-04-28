@@ -10,7 +10,7 @@
 * For Each Project 
 *------------------------
 *1. heroku create
-*2. make sure you: git add . git commit git push
+*2. make sure you: git add .,  git commit-m"something", git push
 *3. git push heroku main
 *
 */
